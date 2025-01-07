@@ -6,7 +6,7 @@ Based on official [RunPod container templates](https://github.com/runpod/contain
 
 ## How to use
 
-You can use the [automatic-oobabooga template on RunPod](https://runpod.io/console/deploy?template=3ufrh587lv&ref=bp56tx5p) to start your pod.
+You can use the [automatic-oobabooga template on RunPod](https://v1k45.com/r/automatic-oobabooga) to start your pod.
 
 > [!WARNING]
 > This image is only tested on A40 RunPod instances. I cannot guarantee it will work on other instances.
