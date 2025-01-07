@@ -26,6 +26,8 @@ If you wish to use a custom template, you can use the following configuration:
   - 22: SSH
 - Set environment variables as needed. Refer to the [Environment Variables](#environment-variables) section for more information.
 
+Docker Image: https://hub.docker.com/r/v1k45/automatic-oobabooga
+
 ## Services
 
 This image can be used directly without any customizations to run both web UIs together. It runs services on the following ports:
